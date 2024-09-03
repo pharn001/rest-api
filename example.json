@@ -2,7 +2,7 @@
     {
         "id":1,
         "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
-        "name":"Phaiakone Chanthamounty",
+        "name":"pharn",
         "skill":32,
         "project":2,
         "Year":"1.5",
@@ -12,7 +12,7 @@
     {
         "id":2,
         "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
-        "name":"Phaiakone Chanthamounty",
+        "name":"jeng",
         "skill":32,
         "project":2,
         "Year":"1.5",
@@ -22,7 +22,7 @@
     {
         "id":3,
         "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
-        "name":"Phaiakone Chanthamounty",
+        "name":"don",
         "skill":32,
         "project":2,
         "Year":"1.5",
