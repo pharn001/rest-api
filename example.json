@@ -32,7 +32,7 @@
         "status": "Dev",
         "rank":"d"
     },
-     {
+     {            "id":4,
                 "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
                 "name": "Thavisouk Minalavong",
                 "skill": "32",
