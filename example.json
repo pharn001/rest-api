@@ -1,13 +1,13 @@
 [
     {
         "id":1,
-        "img":"https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/silivanxay.png",
+        "img":"",
         "name":"pharn",
         "skill":32,
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-         "status": "Advisor",
+         "status": "Dev",
         "rank":"d"
     },
     {
@@ -18,7 +18,7 @@
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-        "status": "Advisor",
+        "status": "Dev",
         "rank":"d"
     },
     {
@@ -29,7 +29,17 @@
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-        "status": "Chairman",
+        "status": "Dev",
         "rank":"d"
-    }
+    },
+     {
+                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Thavisouk%20.png",
+                "name": "Thavisouk Minalavong",
+                "skill": "32",
+                "project": 2,
+                "Year": "1.5",
+                "xp": "10000",
+                "status": "Dev",
+                 "rank":"D"
+            },
 ]
