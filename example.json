@@ -7,7 +7,8 @@
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-         "status": "Advisor"
+         "status": "Advisor",
+        "rank":"d"
     },
     {
         "id":2,
@@ -17,7 +18,8 @@
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-        "status": "Advisor"
+        "status": "Advisor",
+        "rank":"d"
     },
     {
         "id":3,
@@ -27,6 +29,7 @@
         "project":2,
         "Year":"1.5",
         "xp":"10000",
-        "status": "Chairman"
+        "status": "Chairman",
+        "rank":"d"
     }
 ]
